@@ -20,3 +20,4 @@ elif num > 1:
     else:
         print(num, "is a prime number")
 #max est trop beau
+#max est frais
